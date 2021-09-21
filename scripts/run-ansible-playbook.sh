@@ -1,3 +1,3 @@
-cd /home/abdelali/devops/nodejs/ansible
+cd /home/abdelali/nodejs/ansible
 ansible-playbook ansible-build-image.yml
 ansible-playbook ansible-run-cluster.yml

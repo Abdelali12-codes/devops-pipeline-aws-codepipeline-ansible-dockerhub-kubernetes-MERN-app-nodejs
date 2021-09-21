@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/abdelali/devops/nodejs
+    destination: /home/abdelali/nodejs
 hooks:
     # AfterInstall:
     #    - location: scripts/copy-files.sh
